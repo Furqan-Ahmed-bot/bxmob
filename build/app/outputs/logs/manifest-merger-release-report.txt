@@ -1,0 +1,461 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:13:4-47:19
+MERGED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-24:19
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-24:19
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-18:19
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-18:19
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-21:19
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-21:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\80ed35e288314b1ea3a4395bb23c36b0\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\80ed35e288314b1ea3a4395bb23c36b0\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\61ab6a493f15d4143cbbe7ae210d7416\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\61ab6a493f15d4143cbbe7ae210d7416\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fe07e6b9561a06b49d7e01c9b850fef4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fe07e6b9561a06b49d7e01c9b850fef4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:14:9-39
+	android:icon
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:16:9-45
+	android:name
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:15:9-42
+manifest
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:google_maps_flutter_android] E:\furqan\ts-app-development\bx-mobile\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\furqan\ts-app-development\bx-mobile\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [:connectivity_plus] E:\furqan\ts-app-development\bx-mobile\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:shared_preferences_android] E:\furqan\ts-app-development\bx-mobile\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding] E:\furqan\ts-app-development\bx-mobile\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-26:12
+MERGED from [:package_info_plus] E:\furqan\ts-app-development\bx-mobile\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] E:\furqan\ts-app-development\bx-mobile\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-20:12
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dbfa7ebedc55883fddc54b7b8a0244a3\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\80ed35e288314b1ea3a4395bb23c36b0\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\aac1a7c581b50a0a9e6bbd218e66fe93\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b017f31964d4f443873972b5f03d8559\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\cf7977186fbc3d173791b97433d313e6\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\0ca2f922b448017e5d8b8a9c1f816514\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\61ab6a493f15d4143cbbe7ae210d7416\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\5ca1c9c7879ea52906dce4406dac151d\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\702e37824e49d9af4fcd0ea0d4f85a1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\3aa44aef0d57ef663fe28b53bf57e2c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\38f12bf94f564f99f8bd71716e4bbf56\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\4856ffcdb35523ff0af0e81c47997c61\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d92a202b5b36b7465313bd8ace90d0a3\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\2306dd50fb62eb137f39125a1a803fa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\285ab3787e2198637d8f742a09fbfefb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dfe2a1701280457ac8dc986df24a9bb4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c0cd4d08a243ac7856febee8ef1a6328\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1644ee85c0cdb5d4b25529f22bd95b56\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b870d9ffa2dc3955753087e1d29e199d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\e4452a50aead1284f75f78bab3f05e8f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ad2ab44662988db6ce13363b6a6e9ec0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\137d27a0efb60279f0607883eafffb4d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\8bea7cd42db36ebfaccb7b78f39bbedd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ef32939d5923f4deda2d17224c51519a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fe07e6b9561a06b49d7e01c9b850fef4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c7f96dbffa9ffc022d43e4e40c341f59\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\87106b11c8f393cf53a00b8227e2396a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ba7cb0dcf57b7640d4625a1cfaf7ffef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eca4e3d373c3e20fa222b4a9bd26c85f\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d87d77732ce4b69d68e74bd3e6f48aad\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ce6dd55734139db1fc8a4f30d264c220\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\733502f0c475ede4647b9edbcae7dbf0\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c1c99974d541b8acb5769cb6f8798eb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\104671f48ced67bb24f00e9f29d0fafc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1ecad34d2def72204647aca7cd081083\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c387758333e59da3acc29e3ef9506320\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eb45fb51adbbded6ecd8a462339c9e2b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fbbdb820d420d3dcc7bd02fd9d7693eb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:4:5-78
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-79
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-79
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-81
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:5:22-78
+queries
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:6:5-11:15
+MERGED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:15
+MERGED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:7:9-10:18
+action#android.intent.action.DIAL
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:8:13-65
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:8:21-62
+data
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:9:13-42
+	android:scheme
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:9:19-39
+uses-sdk
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] E:\furqan\ts-app-development\bx-mobile\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] E:\furqan\ts-app-development\bx-mobile\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] E:\furqan\ts-app-development\bx-mobile\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] E:\furqan\ts-app-development\bx-mobile\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] E:\furqan\ts-app-development\bx-mobile\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity_plus] E:\furqan\ts-app-development\bx-mobile\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] E:\furqan\ts-app-development\bx-mobile\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] E:\furqan\ts-app-development\bx-mobile\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] E:\furqan\ts-app-development\bx-mobile\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] E:\furqan\ts-app-development\bx-mobile\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:package_info_plus] E:\furqan\ts-app-development\bx-mobile\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] E:\furqan\ts-app-development\bx-mobile\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\furqan\ts-app-development\bx-mobile\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\furqan\ts-app-development\bx-mobile\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dbfa7ebedc55883fddc54b7b8a0244a3\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dbfa7ebedc55883fddc54b7b8a0244a3\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\80ed35e288314b1ea3a4395bb23c36b0\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\80ed35e288314b1ea3a4395bb23c36b0\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\aac1a7c581b50a0a9e6bbd218e66fe93\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\aac1a7c581b50a0a9e6bbd218e66fe93\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b017f31964d4f443873972b5f03d8559\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b017f31964d4f443873972b5f03d8559\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\cf7977186fbc3d173791b97433d313e6\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\cf7977186fbc3d173791b97433d313e6\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\0ca2f922b448017e5d8b8a9c1f816514\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\0ca2f922b448017e5d8b8a9c1f816514\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\61ab6a493f15d4143cbbe7ae210d7416\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\61ab6a493f15d4143cbbe7ae210d7416\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.media:media:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\5ca1c9c7879ea52906dce4406dac151d\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\5ca1c9c7879ea52906dce4406dac151d\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\702e37824e49d9af4fcd0ea0d4f85a1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\702e37824e49d9af4fcd0ea0d4f85a1e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\3aa44aef0d57ef663fe28b53bf57e2c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\3aa44aef0d57ef663fe28b53bf57e2c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\38f12bf94f564f99f8bd71716e4bbf56\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\38f12bf94f564f99f8bd71716e4bbf56\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\4856ffcdb35523ff0af0e81c47997c61\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\4856ffcdb35523ff0af0e81c47997c61\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d92a202b5b36b7465313bd8ace90d0a3\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d92a202b5b36b7465313bd8ace90d0a3\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\2306dd50fb62eb137f39125a1a803fa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\2306dd50fb62eb137f39125a1a803fa3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\285ab3787e2198637d8f742a09fbfefb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\285ab3787e2198637d8f742a09fbfefb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dfe2a1701280457ac8dc986df24a9bb4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\dfe2a1701280457ac8dc986df24a9bb4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c0cd4d08a243ac7856febee8ef1a6328\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c0cd4d08a243ac7856febee8ef1a6328\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1644ee85c0cdb5d4b25529f22bd95b56\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1644ee85c0cdb5d4b25529f22bd95b56\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b870d9ffa2dc3955753087e1d29e199d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\b870d9ffa2dc3955753087e1d29e199d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\e4452a50aead1284f75f78bab3f05e8f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\e4452a50aead1284f75f78bab3f05e8f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ad2ab44662988db6ce13363b6a6e9ec0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ad2ab44662988db6ce13363b6a6e9ec0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\137d27a0efb60279f0607883eafffb4d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\137d27a0efb60279f0607883eafffb4d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\8bea7cd42db36ebfaccb7b78f39bbedd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\8bea7cd42db36ebfaccb7b78f39bbedd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\507db748440bce95909c434a56d22892\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ef32939d5923f4deda2d17224c51519a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ef32939d5923f4deda2d17224c51519a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fe07e6b9561a06b49d7e01c9b850fef4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fe07e6b9561a06b49d7e01c9b850fef4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c7f96dbffa9ffc022d43e4e40c341f59\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c7f96dbffa9ffc022d43e4e40c341f59\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\87106b11c8f393cf53a00b8227e2396a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\87106b11c8f393cf53a00b8227e2396a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ba7cb0dcf57b7640d4625a1cfaf7ffef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ba7cb0dcf57b7640d4625a1cfaf7ffef\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eca4e3d373c3e20fa222b4a9bd26c85f\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eca4e3d373c3e20fa222b4a9bd26c85f\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d87d77732ce4b69d68e74bd3e6f48aad\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\d87d77732ce4b69d68e74bd3e6f48aad\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ce6dd55734139db1fc8a4f30d264c220\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\ce6dd55734139db1fc8a4f30d264c220\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\733502f0c475ede4647b9edbcae7dbf0\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\733502f0c475ede4647b9edbcae7dbf0\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c1c99974d541b8acb5769cb6f8798eb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c1c99974d541b8acb5769cb6f8798eb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\104671f48ced67bb24f00e9f29d0fafc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\104671f48ced67bb24f00e9f29d0fafc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1ecad34d2def72204647aca7cd081083\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\1ecad34d2def72204647aca7cd081083\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c387758333e59da3acc29e3ef9506320\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c387758333e59da3acc29e3ef9506320\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eb45fb51adbbded6ecd8a462339c9e2b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\eb45fb51adbbded6ecd8a462339c9e2b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fbbdb820d420d3dcc7bd02fd9d7693eb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fbbdb820d420d3dcc7bd02fd9d7693eb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:18:8-19:69
+	android:value
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:19:12-67
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:18:19-64
+activity#com.technosysint.bxmobileapp.MainActivity
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:21:9-41:20
+	android:launchMode
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:24:13-43
+	android:hardwareAccelerated
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:27:13-47
+	android:windowSoftInputMode
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:28:13-55
+	android:exported
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:23:13-36
+	android:configChanges
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:26:13-163
+	android:theme
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:22:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:33:13-36:17
+	android:resource
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:35:15-52
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:34:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:39:27-74
+meta-data#flutterEmbedding
+ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:44:9-46:33
+	android:value
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:46:13-30
+	android:name
+		ADDED from E:\furqan\ts-app-development\bx-mobile\android\app\src\main\AndroidManifest.xml:45:13-44
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] E:\furqan\ts-app-development\bx-mobile\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-80
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-80
+MERGED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-77
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-72
+	android:name
+		ADDED from [:file_picker] E:\furqan\ts-app-development\bx-mobile\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:13:21-69
+uses-permission#android.permission.CAMERA
+ADDED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [:camera_android] E:\furqan\ts-app-development\bx-mobile\build\camera_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-68
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] E:\furqan\ts-app-development\bx-mobile\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] E:\furqan\ts-app-development\bx-mobile\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:connectivity_plus] E:\furqan\ts-app-development\bx-mobile\build\connectivity_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-83
+	android:name
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-80
+provider#com.crazecoder.openfile.FileProvider
+ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-23:20
+	android:grantUriPermissions
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-88
+	android:exported
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-37
+	tools:replace
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-48
+	android:name
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:53
+	android:resource
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-50
+	android:name
+		ADDED from [:open_file] E:\furqan\ts-app-development\bx-mobile\build\open_file\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-17:56
+	android:enabled
+		ADDED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+	android:foregroundServiceType
+		ADDED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from [:location] E:\furqan\ts-app-development\bx-mobile\build\location\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-71
+activity#com.wongpiwat.trust_location.TrustLocationPlugin
+ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-20:20
+	android:launchMode
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-144
+	android:theme
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [:trust_location] E:\furqan\ts-app-development\bx-mobile\build\trust_location\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-76
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\65d7f496e0c0fefec8fa7195c7c8a034\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\6b01c70dc2b2e640c4eb2c7804119a20\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\c13d9e5ecb09d9c19ab8309c72c4c353\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\furqan.ahmed\.gradle\caches\transforms-3\fc0b42180d6cfa4088f876f2de646fba\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

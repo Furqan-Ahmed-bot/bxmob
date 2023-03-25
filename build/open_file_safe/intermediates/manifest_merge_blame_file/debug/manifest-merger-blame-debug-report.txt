@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.crazecoder.openfile" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="16"
+7-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="16" />
+8-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+10-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:5:5-80
+10-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:5:22-77
+11
+12    <application>
+12-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:7:5-19:19
+13        <provider
+13-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:8:9-18:20
+14            android:name="com.crazecoder.openfile.FileProvider"
+14-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:9:13-64
+15            android:authorities="${applicationId}.fileProvider.com.crazecoder.openfile"
+15-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:10:13-88
+16            android:exported="false"
+16-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:11:13-37
+17            android:grantUriPermissions="true"
+17-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:12:13-47
+18            tools:replace="android:authorities" >
+18-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:13:13-48
+19            <meta-data
+19-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:14:13-17:20
+20                android:name="android.support.FILE_PROVIDER_PATHS"
+20-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:15:17-67
+21                android:resource="@xml/filepaths" />
+21-->D:\flutter_windows_2.5.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\open_file_safe-3.2.3\android\src\main\AndroidManifest.xml:16:17-50
+22        </provider>
+23    </application>
+24
+25</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137350659866",
+    "project_id": "bx-mobile-a44dc",
+    "storage_bucket": "bx-mobile-a44dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137350659866:android:5e3f94308e043f5e0d76a3",
+        "android_client_info": {
+          "package_name": "com.technosysint.bxmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137350659866-3t76kgce9qh7m8p2i1892ibnrvvc0420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFgLdh9EkUFFFHwd4FEwXGQfm5oFEnIqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137350659866-3t76kgce9qh7m8p2i1892ibnrvvc0420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

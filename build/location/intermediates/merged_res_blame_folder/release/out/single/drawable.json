@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\51a4d184cd6599afdadd7a31dda0ee15\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\51a4d184cd6599afdadd7a31dda0ee15\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\flutter_windows_3.0.5-stable\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location-4.4.0\\android\\src\\main\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\51a4d184cd6599afdadd7a31dda0ee15\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\51a4d184cd6599afdadd7a31dda0ee15\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\furqan\\ts-app-development\\bx-mobile\\build\\location\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\furqan.ahmed\\.gradle\\caches\\transforms-3\\e6f583a8a00688439a8a351de740e71d\\transformed\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    }
+]
